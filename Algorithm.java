@@ -1,7 +1,7 @@
 
 /**
  *
- * @author Chitranshu Raj and Lavanya Khular
+ * @author Chitranshu Raj
  */
 
 import java.util.List;

@@ -18,6 +18,7 @@ I have also used simulated data to check the efficiency of the algorithm on 10 p
 
 The output is as follows: 
 
+![image](https://user-images.githubusercontent.com/56484260/116824999-1190ad80-ab5b-11eb-8254-b143d5349f4a.png)
 ![image](https://user-images.githubusercontent.com/56484260/116824966-ddb58800-ab5a-11eb-9848-c146cc7ac784.png)
 
 The graph represents an O(n * log(n)) graph. The x-coordinate axis is arranged according to the number of buildings and the y-coordinate axis represents the run-time for each of the input sets. As the range increases, the graph becomes linear, however, the run time is not fluctuating as the number of inputs reach 100,000 buildings. 
